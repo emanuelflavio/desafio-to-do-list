@@ -26,7 +26,8 @@ Permite criar, editar, excluir e restaurar tarefas.
    git clone https://github.com/emanuelflavio/desafio-to-do-list.git
    cd nome-do-projeto
 ```
-
+ 
+---
 
 **Instalar dependências**
 

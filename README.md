@@ -40,9 +40,6 @@ composer install
 **Instalar dependências JavaScript**
 
 
-
-Rode:
-
 ```bash
 npm install
 npm run dev
@@ -53,7 +50,7 @@ npm run dev
 
  **Configurar o arquivo `.env`**
 
-Crie uma cópia do arquivo de exemplo:
+Crie uma cópia do arquivo .env:
 
 ```bash
 cp .env.example .env   # Se você estiver usando Linux ou Mac
@@ -73,8 +70,6 @@ DB_DATABASE=nome_do_banco
 DB_USERNAME=usuario
 DB_PASSWORD=senha
 ```
-
-Verifique também se há:
 
 ---
 
@@ -109,6 +104,9 @@ O projeto estará acessível em:
 👉 [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
+
+
+Comece criando um usuario na pagina de registro, e faça login
 
 
 

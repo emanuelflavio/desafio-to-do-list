@@ -8,7 +8,7 @@
         <p class="text-gray-500">Nenhuma tarefa encontrada.</p>
     @else
         @foreach ($tasks as $task)
-            <div class="w-full rounded-lg shadow-xl p-4 flex flex-col gap-2 hover:bg-gray-50 transition mb-4">
+            <div class="w-full rounded-lg shadow-md p-4 flex flex-col gap-2 hover:bg-gray-100 transition mb-4">
 
                 <div class="flex justify-between items-center">
                     <div class="task-content cursor-pointer">

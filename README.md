@@ -9,6 +9,7 @@ Permite criar, editar, excluir e restaurar tarefas.
 
 - **PHP 8.2+**
 - **Laravel 12**
+- **Composer**
 - **MySQL**
 - **Node.js v22**
 - **Tailwind CSS + Vite**
@@ -16,17 +17,6 @@ Permite criar, editar, excluir e restaurar tarefas.
 
 ---
 
-## Pré-requisitos
-
-Certifique-se de ter instalado em sua máquina:
-
-- [PHP 8.2+](https://www.php.net/downloads)
-- [Composer](https://getcomposer.org/)
-- [Node.js (v22+)](https://nodejs.org/)
-- [MySQL](https://www.mysql.com/)
-- [Git](https://git-scm.com/)
-
----
 
 ## Instalação do projeto
 

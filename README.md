@@ -1,11 +1,11 @@
-# 🧩 To-Do List 
+# To-Do List 
 
 Um sistema de gerenciamento de tarefas desenvolvido com **PHP**, **Laravel**, **Blade Templates**, e **MySQL**.  
 Permite criar, editar, excluir e restaurar tarefas.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **PHP 8.2+**
 - **Laravel 12**
@@ -28,17 +28,17 @@ Certifique-se de ter instalado em sua máquina:
 
 ---
 
-## 📦 Instalação do projeto
+## Instalação do projeto
 
  **Clone o repositório**
 
-   ```bash
+```bash
    git clone https://github.com/emanuelflavio/desafio-to-do-list.git
    cd nome-do-projeto
+```
 
 
-
- **Instalar dependências**
+**Instalar dependências**
 
 ```bash
 composer install
@@ -87,7 +87,7 @@ Verifique também se há:
 
 ---
 
-### **Gere a chave da aplicação**
+**Gere a chave da aplicação**
 
 ```bash
 php artisan key:generate
@@ -110,6 +110,8 @@ Rode o servidor local do Laravel (Em outro terminal):
 ```bash
 php artisan serve
 ```
+
+---
 
 O projeto estará acessível em:
 

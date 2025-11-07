@@ -32,7 +32,7 @@ class TaskController extends Controller
     }
 
     
-    $tasks = $query->paginate(5)->withQueryString(); 
+    $tasks = $query->paginate(6)->withQueryString(); 
 
     return view('tasks.home', compact('tasks', 'filter'));
 }

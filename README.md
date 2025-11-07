@@ -24,7 +24,7 @@ Permite criar, editar, excluir e restaurar tarefas.
 
 ```bash
    git clone https://github.com/emanuelflavio/desafio-to-do-list.git
-   cd nome-do-projeto
+   cd desafio-to-do-list
 ```
  
 ---
